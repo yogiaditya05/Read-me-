@@ -58,4 +58,4 @@ I specialize in transforming complex datasets into actionable insights and build
 
 ## 🤝 Connect With Me
 - 📧 Email: aadiwork25@gmail.com
-- 💼 LinkedIn: [LinkedIn Profile]((https://www.linkedin.com/in/aditya-yogi-b77319300/))
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aditya-yogi-b77319300/)
