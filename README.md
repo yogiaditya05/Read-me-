@@ -26,14 +26,6 @@ I specialize in transforming complex datasets into actionable insights and build
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 </p>
 
-### 🤖 Artificial Intelligence & Machine Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit Learn" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-</p>
 
 ### 🌐 Full Stack Web Development
 <p align="left">
@@ -65,5 +57,5 @@ I specialize in transforming complex datasets into actionable insights and build
 ---
 
 ## 🤝 Connect With Me
-- 📧 Email: yogiaditya05@gmail.com
-- 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/yourusername)
+- 📧 Email: aadiwork25@gmail.com
+- 💼 LinkedIn: [LinkedIn Profile]((https://www.linkedin.com/in/aditya-yogi-b77319300/))
